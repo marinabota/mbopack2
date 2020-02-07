@@ -1,7 +1,7 @@
 #' Title
 #'
-#' @param x 
-#' @param y 
+#' @param x
+#' @param y
 #'
 #' @return
 #' @export
@@ -9,4 +9,5 @@
 #' @examples
 mb_mult=function(x,y){
   return(x*y)
+  #test comment from local
 }
